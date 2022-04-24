@@ -1,0 +1,16 @@
+D:\Programme\Visual Studio\Programms\BazaarReader\bin\Debug\netcoreapp3.1\BazaarReader.exe
+D:\Programme\Visual Studio\Programms\BazaarReader\bin\Debug\netcoreapp3.1\BazaarReader.deps.json
+D:\Programme\Visual Studio\Programms\BazaarReader\bin\Debug\netcoreapp3.1\BazaarReader.runtimeconfig.json
+D:\Programme\Visual Studio\Programms\BazaarReader\bin\Debug\netcoreapp3.1\BazaarReader.runtimeconfig.dev.json
+D:\Programme\Visual Studio\Programms\BazaarReader\bin\Debug\netcoreapp3.1\BazaarReader.dll
+D:\Programme\Visual Studio\Programms\BazaarReader\bin\Debug\netcoreapp3.1\BazaarReader.pdb
+D:\Programme\Visual Studio\Programms\BazaarReader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.AssemblyInfoInputs.cache
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.AssemblyInfo.cs
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.csproj.CoreCompileInputs.cache
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.dll
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.pdb
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.genruntimeconfig.cache
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.csproj.AssemblyReference.cache
+D:\Programme\Visual Studio\Programms\BazaarReader\obj\Debug\netcoreapp3.1\BazaarReader.csproj.CopyComplete

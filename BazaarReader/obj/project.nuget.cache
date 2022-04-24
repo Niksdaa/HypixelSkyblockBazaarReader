@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VvETni9eWokAjCqWbHfco7nz98XfqPOForAhIdCGKfQnTn9Dj1onsmQBzUKx5/k4FnsG5WqdrC5+S2lTt03kPw==",
+  "success": true,
+  "projectFilePath": "D:\\Programme\\Visual Studio\\Programms\\BazaarReader\\BazaarReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nirab\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
